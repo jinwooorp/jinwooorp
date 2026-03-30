@@ -16,8 +16,10 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://jin1384.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://jin1384.tistory.com/"> </a>
           </div>  <br> 
-    <div align= "center">  </div> 
+    <div align= "center">  
+        <!-- solved.ac 프로필 -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ecilla)](https://solved.ac/ecilla)
+    </div> 
     </div>
-<!-- solved.ac 프로필 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa8497)](https://solved.ac/ysa8497)
+
 
